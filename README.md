@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seekinfox
-- 👀 I’m interested in Web development. 
+- 👀 I’m a web-developer
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on front end projects
 
