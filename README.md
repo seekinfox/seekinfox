@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seekinfox
 - 👀 I’m a web-developer
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning javaScript language
 
 
 <!---
