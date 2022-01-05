@@ -17,7 +17,7 @@
 
 Hi, I'm **Sanket abhyankar**, a passionate self-taught, currently a front-end web developer. My passion for web development comes from building the creative, responsive and interactive websites.
 
-<img width="300px" align="right" src="https://github.com/seekinfox/seekinfox/blob/main/imgs/profileImage.gif?raw=true" alt="/gif-web-developer">
+<img width="30%" align="right" src="https://github.com/seekinfox/seekinfox/blob/main/imgs/profileImage.gif?raw=true" alt="/gif-web-developer">
 
 - 👀 Want to collaborate or start a new project with me?, [Gmail](mailto:sabhyankar918@gmail.com).
 - 💬 ask me about anything, i am happy to help
