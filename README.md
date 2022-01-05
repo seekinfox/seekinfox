@@ -15,8 +15,7 @@
 
 <br/>
 
-Hi, I'm **Sanket abhyankar**, a passionate self-taught currently a front-end web developer.
-my passion for web development come from building the creative, responsive and interactive websites.
+Hi, I'm **Sanket abhyankar**, a passionate self-taught, currently a front-end web developer. My passion for web development comes from building the creative, responsive and interactive websites.
 
 <img width="300px" align="right" src="https://github.com/seekinfox/seekinfox/blob/main/imgs/profileImage.gif?raw=true" alt="/gif-web-developer">
 
