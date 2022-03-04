@@ -34,6 +34,3 @@ Hi, I'm **Sanket abhyankar**, a passionate self-taught, currently a front-end we
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seekinfox&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=seekinfox&count_private=true&theme=tokyonight&showicons=true)]()
-
-![](https://github.com/seekinfox/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/seekinfox/github-stats/blob/master/generated/languages.svg)
