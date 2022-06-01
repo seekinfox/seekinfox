@@ -1,6 +1,8 @@
-<!--  I’m a web-developer
-- 🌱 I’m currently learning javaScript language-->
-### Hi!!. I’m sanket Abhyankar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
+
+### Hi!!. I’m sanket Abhyankar 
+
 <a href="https://discord.gg/YSWNasDp">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,7 +19,7 @@
 
 Hi, I'm **Sanket abhyankar**, a passionate self-taught, currently a front-end web developer. My passion for web development comes from building the creative, responsive and interactive websites.
 
-<img width="250px" align="right" src="https://github.com/seekinfox/seekinfox/blob/main/imgs/profileImage.gif?raw=true" alt="/gif-web-developer">
+<img width="40%" align="right" src="https://github.com/seekinfox/seekinfox/blob/main/imgs/profileImage.gif?raw=true" alt="/gif-web-developer">
 
 - 👀 Want to collaborate or start a new project with me?, [Gmail](mailto:sabhyankar918@gmail.com).
 - 💬 ask me about anything, i am happy to help
